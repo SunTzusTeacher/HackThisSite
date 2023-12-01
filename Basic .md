@@ -22,6 +22,7 @@ This one is pretty simple. All you have to do is evaluate the HTML for credentia
 ---
 
 ````
-In this were prompted saying the user has wrote a script to comnpare password to a txt file; with out actually listing the file. The solution here is to just submit the password.
+In this were prompted saying the user has wrote a script to comnpare password to a txt file; with out actually
+listing the file. The solution here is to just submit the password.
 ````
 ---
