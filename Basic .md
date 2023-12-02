@@ -26,3 +26,24 @@ In this were prompted saying the user has wrote a script to comnpare password to
 listing the file. The solution here is to just submit the password.
 ````
 ---
+
+# Basics Challenge 3 
+
+---
+
+````
+In this challenge the file is now referenced in the code along with password.php. If you were to just add
+/password.php in the URL will  send to where the password is.
+````
+---
+
+# Basics Challenge 4 
+
+---
+
+````
+This challenge the target is using a script to send his password to his email. When inspecting the code you can find
+a email hard coded in the html. Simmply change the password to your account password and clcik forgot password.
+You should get emailed the credentials.
+````
+---
